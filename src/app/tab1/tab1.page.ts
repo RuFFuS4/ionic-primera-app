@@ -9,4 +9,7 @@ export class Tab1Page {
 
   constructor() {}
 
+  ngOnInit(){
+    //debugger; SIRVE PARA QUE EL CODIGO SE PARE CUANDO LLEGE A ESTE PUNTO
+  }
 }
